@@ -8,3 +8,5 @@ surname = input("Enter your surname: ")
 print("Hello, " + name +  " " + surname +".")
 
 
+#Ask the user for their personal info
+cellphone = input('Enter your cellphone number: ')
